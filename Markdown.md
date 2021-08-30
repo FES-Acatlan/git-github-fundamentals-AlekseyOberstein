@@ -1,44 +1,40 @@
-#Aprendiendo sobre los markdowns
-##Subtitulo
+# Aprendiendo sobre los markdowns
+## Subtitulo
 
 
-
-
-
-
-##Listas
+## Listas
 * Elemento 1
 * Elemento 2
   * Elemento 3 (forma diferente)
   * Elemento 4 (forma diferente)
 
-##Listas ordenadas
+## Listas ordenadas
 1. Elemento 1.1
 1. Elemento 2.1
   1. Elemento 3.1
   2. Elemento 4.1
 
-##Links
+## Links
 [GitHub](http://github.com)
 [Emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
-##Notas en bloques
+## Notas en bloques
 > I have a dream
 
-##Tablas 
+## Tablas 
 Primer Encabezado | Segundo Encabezado
 ------------ | -------------
 Celda 1 | Celda 2
 Content in the first column | Content in the second column
 
-##Subrayar, Negritas e italicas
+## Subrayar, Negritas e italicas
 ~~Subrayas palabras en GitHub~~
 **Texto en negritas**
 *Texto en italica*
 __Texto también en negritas__
 _También italicas_
 
-##Sintaxis de códigos
+## Sintaxis de códigos
 ```javascript
 function fancyAlert(arg) {
   if(arg) {
