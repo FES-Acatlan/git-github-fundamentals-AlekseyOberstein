@@ -6,16 +6,17 @@
 
 
 
-## Listas
+##Listas
 * Elemento 1
 * Elemento 2
   * Elemento 3 (forma diferente)
   * Elemento 4 (forma diferente)
 
-## Listas ordenadas
+##Listas ordenadas
 1. Elemento 1.1
-2. Elemento 2.1
-
+1. Elemento 2.1
+  1. Elemento 3.1
+  2. Elemento 4.1
 
 ##Links
 [GitHub](http://github.com)
@@ -30,7 +31,7 @@ Primer Encabezado | Segundo Encabezado
 Celda 1 | Celda 2
 Content in the first column | Content in the second column
 
-##  Subrayar, Negritas e italicas
+##Subrayar, Negritas e italicas
 ~~Subrayas palabras en GitHub~~
 **Texto en negritas**
 *Texto en italica*
